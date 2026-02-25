@@ -93,7 +93,7 @@ Our mission is to build a sustainable and supportive environment where creativit
 <br/><br/>
 
 <p align="center" style="line-height:1.9;">
-  <strong>🌐 Website:</strong> Coming Soon
+  <strong>🌐 Website:</strong> https://www.gaminggridin.com
   <br/><br/>
   <strong>🔗 Linktree:</strong> https://linktr.ee/gaminggrid_in  
   <br/><br/>
@@ -239,5 +239,6 @@ Gaming Grid is more than a community — it’s a collaborative platform for gam
 <p align="center">
   <strong>© Gaming Grid — Built by gamers, for gamers</strong>
 </p>
+
 
 
